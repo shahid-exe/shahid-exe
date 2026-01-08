@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-* 🔍 **Data Analyst** with hands-on experience in analytics, ML, and geospatial intelligence
+* 🔍 **AI Enthusiast** with hands-on experience in analytics, ML, and geospatial intelligence
 * 🌍 Working on **Landslide Impact Analysis using Google Earth Engine**
 * 📈 Interested in **Data Analytics, Financial Intelligence & Predictive Modeling**
 * 🧠 Currently learning **Advanced Analytics, Model Deployment & Research workflows**
